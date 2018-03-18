@@ -1,3 +1,4 @@
 Git is a distributed version control system.
-Git is gree software.
-Delete some old stuff.
+Git is free software.
+Fix the first merge conflict.
+I was doing something while bug101 appeared.
